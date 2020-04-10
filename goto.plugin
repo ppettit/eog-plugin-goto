@@ -1,0 +1,10 @@
+[Plugin]
+Module=goto
+IAge=3
+Loader=python3
+Name=Goto
+Icon=about
+Description=Click on pic number in status bar to goto any pic in folder
+Authors=t0mm0 <t0mm0@onairsoftware.co.uk>
+Copyright=Copyright © 2020 t0mm0
+Website=https://www.gnome.org
